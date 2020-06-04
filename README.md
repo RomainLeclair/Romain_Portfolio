@@ -8,3 +8,11 @@ Example data science portfolio
 * Data Cleaning and Engineered features
 * Searching best Model to estimare average Salary
 * Buil a client API with Flask
+
+
+
+# [Project2: Application R_Shiny](https://github.com/RomainLeclair/MyAPP_Rshiny)
+* Within the university framework I create a simple RShiny App to analyze the climate in different cities of France.
+* We use a csv file for year 1973 to 20116 to do a simple analysis.
+* The goal of this project is to understand the basics of R_Shiny.
+* To run this App, you just need to open the "Global.R" and run it.
