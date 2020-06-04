@@ -3,11 +3,13 @@
 
 
 # [Project1: Data Science Salary Estimator](https://github.com/RomainLeclair/ds_salary_project)
-* I try to create a tool that estimates data Science salaries for learn
-* Scraped over 1000 job description in USA from glassdor using python and selenium
-* Data Cleaning and Engineered features
-* Searching best Model to estimare average Salary
-* Buil a client API with Flask
+* I try to create a tool that estimates data Science salaries for myeself and test webScraping.
+* Scraped over 1000 job description in USA from glassdor using python and selenium.
+* Data Cleaning and Engineered features.
+* Searching best Model to estimare average Salary.
+* Built a client API with Flask.
+
+
 ![](/images/heatmap.png)
 
 
