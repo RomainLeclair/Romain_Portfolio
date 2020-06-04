@@ -2,7 +2,7 @@
 Example data science portfolio
 
 
-# [Project1: Data Science Salary Estimator : Project Overview] (https://github.com/RomainLeclair/ds_salary_project)
+# [Project1: Data Science Salary Estimator : Project Overview](https://github.com/RomainLeclair/ds_salary_project)
 * I try to create a tool that estimates data Science salaries for learn
 * Scraped over 1000 job description in USA from glassdor using python and selenium
 * Data Cleaning and Engineered features
