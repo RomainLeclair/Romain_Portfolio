@@ -8,6 +8,7 @@ Example data science portfolio
 * Data Cleaning and Engineered features
 * Searching best Model to estimare average Salary
 * Buil a client API with Flask
+![](https://github.com/RomainLeclair/Romain_Portfolio/blob/master/images/heatmap.png)
 
 
 
@@ -16,3 +17,4 @@ Example data science portfolio
 * We use a csv file for year 1973 to 20116 to do a simple analysis.
 * The goal of this project is to understand the basics of R_Shiny.
 * To run this App, you just need to open the "Global.R" and run it.
+![](https://github.com/RomainLeclair/Romain_Portfolio/blob/master/images/Capture1.PNG)
